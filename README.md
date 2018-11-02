@@ -1,6 +1,7 @@
 # CIMIS_Web_Scrapper 
 # How to use:
 This program uses the API from the California Irrigation Mangement Information System to gather weather station data.  It specifically gathers daily precipitation and reference et values for a certain time period. To use the program just simply edit the start and end date located at "B2" and "B3". Now just press "Read CIMIS" button and the values will shortly post going down columns starting at row 8.  It will display the precipitation/reference et values and date right next to the corresponding value.
+
 ![alt_text](https://github.com/miranm1/CIMIS_Web_Scrapper/blob/master/cimis1.PNG)
 ![alt text](https://github.com/miranm1/CIMIS_Web_Scrapper/blob/master/cimis2.PNG)
 ![alt text](https://github.com/miranm1/CIMIS_Web_Scrapper/blob/master/cimis3.PNG)
